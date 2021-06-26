@@ -1,0 +1,79 @@
+#navmenu{
+    display: flex;
+    background-color: black;
+}
+#logom{
+    text-align: left;
+    margin-top: 10px;
+}
+#imgLogo{
+    margin: 0 10px;
+    height: 50px;
+    width: 50px;
+}
+#menux{
+    color: aliceblue;
+    margin-top: 10px;
+    margin-left: 45%;
+}
+#menu{
+    width: 100%;
+}
+#imgt1{
+    background: url(../image/fs1.jpeg) no-repeat center top;
+    background-size: cover; /*cover(cubre todo 100%ancho) contain(respecto al alto) auto, 100px (ancho) 200px (alto),*/
+    min-height: 430px;
+}
+#imgt2{
+    background: url(../image/fs2.jpeg) no-repeat center top;
+    background-size: cover; /*cover(cubre todo 100%ancho) contain(respecto al alto) auto, 100px (ancho) 200px (alto),*/
+    min-height: 300px;
+}
+#imgt3{
+    background: url(../image/fs3.jpeg) no-repeat center top;
+    background-size: cover; /*cover(cubre todo 100%ancho) contain(respecto al alto) auto, 100px (ancho) 200px (alto),*/
+    min-height: 300px;
+}
+#imgt4{
+    background: url(../image/fs4.jpeg) no-repeat center top;
+    background-size: cover; /*cover(cubre todo 100%ancho) contain(respecto al alto) auto, 100px (ancho) 200px (alto),*/
+    min-height: 300px;
+}
+#imgt5{
+    background: url(../image/fs5.jpeg) no-repeat center top;
+    background-size: cover; /*cover(cubre todo 100%ancho) contain(respecto al alto) auto, 100px (ancho) 200px (alto),*/
+    min-height: 300px;
+}
+#h1servicios{
+    margin-top: 20px;
+}
+.col-redes{
+    width: 100%;
+}
+.imgSocial{
+    height: 35px;
+    min-height: 30px;
+}
+.rs{
+    margin-left: 20%;   
+}
+#aservicios{
+    background-image: linear-gradient(to left, #BDBBBE 0%, #9D9EA3 100%), radial-gradient(88% 271%, rgba(255, 255, 255, 0.25) 0%, rgba(254, 254, 254, 0.25) 1%, rgba(0, 0, 0, 0.25) 100%), radial-gradient(50% 100%, rgba(255, 255, 255, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%);
+ background-blend-mode: normal, lighten, soft-light;
+}
+#acerca{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+.scomentarios{
+    color: white;
+    border: 1px solid wheat;
+}
+#s2comentarios{
+    color: white;
+}
+.redes2{
+    background-color: black;
+}
+#body{
+    background-color: grey;
+}
